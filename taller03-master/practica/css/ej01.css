@@ -1,0 +1,41 @@
+.inicio{
+    background-color: #eeea1b;
+    color: #080696;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: #03020e solid 2px;
+}
+.inicio2{
+    background-color: #63db6d;
+    color: #da0808;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    width: 400px;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: #afa7a7 solid 2px;
+}
+.inicio3{
+    background-color: #597dbe;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border-radius: 5px;
+    width: 50%;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: #db0808 solid 2px;
+}

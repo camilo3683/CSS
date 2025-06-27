@@ -1,0 +1,60 @@
+.condor{    
+   
+    width: 200px;
+    height: 200px;
+    background-color: #FF0000;
+    position: center;
+    border: #FF0000 solid 2px;
+    display: block;
+
+}
+.condor2{    
+   
+    width: 200px;
+    height: 200px;
+    background-color: #00FF00;
+    position: center;
+    border: #00FF00 solid 2px;
+    display: block;
+
+}
+.condor3{    
+   
+    width: 200px;
+    height: 200px;
+    background-color: #0000FF;
+    position: center;
+    border: #0000FF solid 2px;
+    display: block;
+
+}
+.condor4{    
+   
+    width: 200px;
+    height: 200px;
+    background-color: #FFFF00;
+    position: center;
+    border: #FFFF00 solid 2px;
+
+
+}
+.condor5{    
+   
+    width: 200px;
+    height: 200px;
+    background-color: #FF00FF;
+    position: center;
+    border: #FF00FF solid 2px;
+    
+
+}
+.condor6{    
+   
+    width: 200px;
+    height: 200px;
+    background-color: #00FFFF;
+    position: center;
+    border: #00FFFF solid 2px;
+    
+
+}

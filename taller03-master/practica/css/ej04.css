@@ -1,0 +1,13 @@
+.mi-bloque1{
+   
+    background-color: rgb(218, 112, 112);
+    
+    margin-top: 10;
+    margin-bottom: 10;
+    border: 2px solid rgb(7, 5, 5);
+}
+.mi-bloque2{
+    background-color: rgb(218, 112, 112);
+    padding: 10px;
+    border: 2px solid rgb(121, 16, 94);
+}

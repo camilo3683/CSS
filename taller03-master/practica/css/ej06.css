@@ -1,23 +1,34 @@
 .paleta {
   display: flex;
   gap: 10px;
-  align-items: center;
+  alignment-baseline:central ;
+  margin-top: 10px;
+  color: rgb(173, 172, 171);
 }
 
 .color {
-  width: 50px;
+  width: 80%;
   height: 50px;
   border-radius: 8px;
   border: 1px solid #ccc;
+  margin-bottom: 20px;
+  text-align: center;
+  
+
 }
 
-.color1 { background: #e57373; }
-.color2 { background: #81c784; }
-.color3 { background: #64b5f6; }
-.color4 { background: #ffd54f; }
+.color1 { background: #d82525;
+}
+
+.color2 { background: #3faeca; 
+}
+.color3 { background: #d0f335; }
+.color4 { background: #2ccc4e; }
 
 .texto {
   font-size: 16px;
   font-weight: bold;
   padding: 0 10px;
+  color: #494848;
+  list-style: central;
 }
